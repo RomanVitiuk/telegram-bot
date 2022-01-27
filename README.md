@@ -12,7 +12,7 @@ First of all fill in input field with the amount of water just drank for example
 ```
 Now 2022-01-27 21:00 you was drank 250 ml of water!
 
-Don`t give up, to norm left 350 ml!!!
+Don`t give up, to norm left 1750 ml!!!
 ```
 
 When you repeat previous step your estimate update with current value.
